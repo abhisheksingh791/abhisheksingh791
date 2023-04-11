@@ -22,7 +22,7 @@
 
 <p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=abhisheksingh791&count_private=true&show_icons=true&theme=dark" width="400"></a> 
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheksingh791n&count_private=true&show_icons=true&theme=dark" width="400"></a>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheksingh791&count_private=true&show_icons=true&theme=dark" width="400"></a>
 </p>
 
 
