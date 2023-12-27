@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @abhisheksingh791
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+- 👀 I’m interested in Software and Website Development 
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on Software Companies 
+- 📫 How to reach me via mail: abhishekshivam95590@gmail.com, linkedin: https://www.linkedin.com/in/abhishek-singh-749888179/  
 
 
 ## Skills and Experience 
